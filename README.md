@@ -1,6 +1,5 @@
 <h2 align="left">Olá sou Guilherme Freitas Desenvolvedor focado em Front-end</h2>
-
-Desenvolvedor focado em front-end, com experiência inicial em Python e HTML. Tenho interesse em criar interfaces funcionais e intuitivas que valorizem a experiência do usuário. Estou sempre aprimorando minhas habilidades e aprendendo novas ferramentas para criar soluções práticas e eficientes.
+Futuro desenvolvedor full-stack, com experiência em CSS, JavaScript, Python e HTML. Tenho paixão por criar interfaces funcionais e intuitivas que priorizem a experiência do usuário. Estou constantemente aprimorando minhas habilidades e explorando novas ferramentas e frameworks para oferecer soluções completas, práticas e eficientes.
 ###
 
 <div align="left">
