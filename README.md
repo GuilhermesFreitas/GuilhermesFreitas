@@ -1,6 +1,6 @@
 <h2 align="left">Olá sou Guilherme Freitas Desenvolvedor focado em Front-end</h2>
 Futuro desenvolvedor full-stack, com experiência em CSS, JavaScript, Python e HTML. Tenho paixão por criar interfaces funcionais e intuitivas que priorizem a experiência do usuário. Estou constantemente aprimorando minhas habilidades e explorando novas ferramentas e frameworks para oferecer soluções completas, práticas e eficientes.
-###
+
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
