@@ -1,6 +1,10 @@
 <h2 align="left">Olá sou Guilherme Freitas </h2>
-Futuro desenvolvedor full-stack, com experiência em CSS, JavaScript, Python e HTML. Tenho paixão por criar interfaces funcionais e intuitivas que priorizem a experiência do usuário. Estou constantemente aprimorando minhas habilidades e explorando novas ferramentas e frameworks para oferecer soluções completas, práticas e eficientes.
 
+Olá! Me chamo Guilherme, e estou construindo minha trajetória no universo da tecnologia. Atualmente, estou em formação como Desenvolvedor Full Stack pela Rocketseat, com foco em me especializar em desenvolvimento Front-End.
+
+Minha paixão está em criar interfaces dinâmicas, interativas e acessíveis, usando tecnologias como HTML, CSS, JavaScript e React. Estou sempre buscando maneiras de melhorar a experiência do usuário e trazer valor por meio de soluções criativas e funcionais.
+
+<br>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
