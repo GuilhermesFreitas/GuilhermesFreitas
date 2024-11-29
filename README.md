@@ -30,7 +30,4 @@ Minha paixão está em criar interfaces dinâmicas, interativas e acessíveis, u
   </a>
 </div>
 
-<a href="https://app.rocketseat.com.br/me/guilhermesfreitas"><img src="https://app.rocketseat.com.br/api/rocketid/share?slug=guilhermesfreitas&type=card" width="280" alt="Guilherme Freitas's Rocket ID"/></a>
-
-
 ###
