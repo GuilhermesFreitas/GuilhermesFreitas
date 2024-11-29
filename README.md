@@ -5,22 +5,6 @@
 Olá! Me chamo Guilherme, e estou construindo minha trajetória no universo da tecnologia. Atualmente, estou em formação como Desenvolvedor Full Stack pela Rocketseat, com foco em me especializar em desenvolvimento Front-End.
 
 Minha paixão está em criar interfaces dinâmicas, interativas e acessíveis, usando tecnologias como HTML, CSS, JavaScript e React. Estou sempre buscando maneiras de melhorar a experiência do usuário e trazer valor por meio de soluções criativas e funcionais.
-    </a> 
-    <a href="https://github.com/Larissakich?tab=repositories&sort=stargazers">
-        <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/Larissakich?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
-        />
-    </a>
-    <a href="https://github.com/Larissakich?tab=followers">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/Larissakich?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
-    </a>
-</p>
 
 ---
 
@@ -65,14 +49,6 @@ Minha paixão está em criar interfaces dinâmicas, interativas e acessíveis, u
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Next.js" 
-    title="Next.js"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" 
 />
 
 <img 
