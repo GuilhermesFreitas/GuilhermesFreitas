@@ -51,7 +51,15 @@ Minha paixão está em criar interfaces dinâmicas, interativas e acessíveis, u
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" 
 />
-          
+
+<img 
+    align="left" 
+    alt="Next.js"
+    title="Next.js" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" 
+/>
           
 
 <img 
@@ -71,6 +79,16 @@ Minha paixão está em criar interfaces dinâmicas, interativas e acessíveis, u
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
+
+<img 
+    align="left" 
+    alt="Linux" 
+    title="Linux"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg"
+/>
+
 <img 
     align="left" 
     alt="Python" 
