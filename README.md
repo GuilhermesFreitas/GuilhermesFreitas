@@ -98,6 +98,10 @@ Minha paixão está em criar interfaces dinâmicas, interativas e acessíveis, u
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg"
 />
 
+<img src="https://raw.githubusercontent.com/GuilhermesFreitas /GuilhermesFreitas /output/snake.svg" alt="Snake animation" />
+
+###
+
 <br/>
 <br/>
 
