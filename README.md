@@ -12,7 +12,7 @@ Acredito que um bom backend é a base para um sistema escalável e funcional, e 
 
 #### 📚 Main Stacks:
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,java,js,ts,node)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,java,js,ts,node.js)](https://skillicons.dev)
 
 #### 🧠 Extras:
 
