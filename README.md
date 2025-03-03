@@ -16,7 +16,7 @@ Acredito que um bom backend é a base para um sistema escalável e funcional, e 
 
 #### 🧠 Extras:
 
-[![My Skills](https://skillicons.dev/icons?i=linux,spring,git,mysql,docker)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=linux,spring,nextjs,git,mysql,docker)](https://skillicons.dev)
 
 ---
 
