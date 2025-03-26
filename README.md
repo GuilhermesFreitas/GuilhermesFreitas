@@ -1,10 +1,10 @@
 # Guilherme Freitas
 
-**`Desenvolvedor FullStack`**
+**`Desenvolvedor FullStack`** <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=guilhermesfreitas.guilhermesfreitas&left_color=darkolivegreen&right_color=darkolivegreen&left_text=Visitantes"  />
 
-Olá! Me chamo Guilherme, e estou construindo minha carreira como desenvolvedor, com foco no desenvolvimento backend. Atualmente, estou me especializando em Java e buscando expandir minhas habilidades para criar soluções robustas e eficientes para o backend de aplicações empresariais.
+Olá! Me chamo Guilherme, e estou construindo minha carreira como desenvolvedor, com foco em desenvolvimento backend. Atualmente, estou me especializando em Java e buscando expandir minhas habilidades para criar soluções robustas e eficientes para o backend de aplicações empresariais.
 
-Acredito que um bom backend é a base para um sistema escalável e funcional, e estou sempre em busca de aprender novas tecnologias e práticas para entregar o melhor código possível.
+Acredito que um bom backend é a base para um sistema escalável e funcional, e estou sempre em busca de aprender novas tecnologias e práticas para escrever código limpo, eficiente e escalável.
 
 ---
 
@@ -16,24 +16,22 @@ Acredito que um bom backend é a base para um sistema escalável e funcional, e 
 
 #### 🧠 Extras:
 
-[![My Skills](https://skillicons.dev/icons?i=linux,spring,nextjs,git,mysql,docker)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=linux,docker,git,mysql,spring,nextjs)](https://skillicons.dev)
 
 ---
-
 
 ## 📊 Estatísticas
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=guilhermesfreitas&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=guilhermesfreitas&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=guilhermesfreitas&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=pt-br&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=guilhermesfreitas&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
 ###
 
-<img src="https://raw.githubusercontent.com/GuilhermesFreitas /GuilhermesFreitas /output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/GuilhermesFreitas/GuilhermesFreitas/output/snake.svg" alt="Snake animation" />
 
 ###
 
 <br/>
 <br/>
-
