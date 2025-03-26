@@ -25,6 +25,9 @@ Acredito que um bom backend é a base para um sistema escalável e funcional, e 
 
 ###
 
+## 📊 Estatísticas do GitHub
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=GuilhermesFreitas&show_icons=true&theme=radical)
+
 <br/>
 <br/>
 
