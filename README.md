@@ -8,7 +8,7 @@
 
 **`Desenvolvedor FullStack`** <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=guilhermesfreitas.guilhermesfreitas&left_color=darkolivegreen&right_color=darkolivegreen&left_text=Visitantes" />
 
-Olá! Me chamo Guilherme, e estou construindo minha carreira como desenvolvedor, com foco em **desenvolvimento backend**. Atualmente, estou me especializando em **Java** e buscando expandir minhas habilidades para criar soluções robustas e eficientes para o backend de aplicações empresariais.
+Olá! Me chamo Guilherme, e estou construindo minha carreira como desenvolvedor, com foco em **desenvolvimento backend**. Atualmente, estou me especializando em **Go** e buscando expandir minhas habilidades para criar soluções robustas e eficientes para o backend.
 
 Acredito que um bom backend é a base para um sistema escalável e funcional, e estou sempre em busca de aprender novas tecnologias e práticas para escrever **código limpo, eficiente e escalável**.
 
@@ -18,11 +18,11 @@ Acredito que um bom backend é a base para um sistema escalável e funcional, e 
 
 #### 📚 Main Stacks:
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,java,js,ts,nodejs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,go,java,js,ts)](https://skillicons.dev)
 
 #### 🧠 Extras:
 
-[![My Skills](https://skillicons.dev/icons?i=linux,docker,git,mysql,spring,nextjs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=linux,docker,git,mysql,nextjs)](https://skillicons.dev)
 
 
 ---
